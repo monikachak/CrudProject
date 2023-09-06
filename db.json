@@ -1,0 +1,112 @@
+{
+  "empdata": [
+    {
+      "username": "Anannd",
+      "email": "ananndd@234567gmail.com",
+      "password": "345678",
+      "id": 5
+    },
+    {
+      "username": "anjali kumari",
+      "email": "anjukumari89@gmail.com",
+      "password": "anjali34@g",
+      "id": 7
+    },
+    {
+      "username": "artiroye",
+      "email": "artidt1234@gmail.com",
+      "password": "56789",
+      "id": 8
+    },
+    {
+      "username": "komal",
+      "email": "komal@gmail.com",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "username": "arun kumar",
+      "email": "arun@gmail.com",
+      "password": "123456",
+      "id": 10
+    },
+    {
+      "username": "simran",
+      "email": "simransingh@3456ty.in",
+      "password": "23456",
+      "id": 12
+    },
+    {
+      "username": "anam",
+      "email": "anam1234@hdi.in",
+      "password": "123456",
+      "id": 13
+    },
+    {
+      "username": "arjun",
+      "email": "arjun234@gmail.com",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "username": "sanam",
+      "email": "sanamfg@23.in",
+      "password": "12345",
+      "id": 15
+    },
+    {
+      "username": "devya",
+      "email": "d12345@gmail.com",
+      "password": "123456",
+      "id": 16
+    },
+    {
+      "username": "amrindar",
+      "email": "am234e@u.in",
+      "password": "4567",
+      "id": 17
+    },
+    {
+      "username": "asvani",
+      "email": "345@gmail.com",
+      "password": "34567",
+      "id": 18
+    },
+    {
+      "username": "kaayra singh",
+      "email": "kay23456@3456.in",
+      "password": "4567",
+      "id": 19
+    },
+    {
+      "username": "arman sing",
+      "email": "ar234567@67.in",
+      "password": "234567",
+      "id": 20
+    },
+    {
+      "username": "sumit kumar",
+      "email": "sum34567@gmail.com",
+      "password": "23456",
+      "id": 21
+    },
+    {
+      "username": "amankumar",
+      "email": "aman@gmail.com",
+      "password": "123456",
+      "id": 22
+    },
+    {
+      "username": "nehakumari",
+      "email": "neha@gmail.com",
+      "password": "123454",
+      "id": 23
+    },
+    {
+      "username": "komal",
+      "email": "komal@gmail.com",
+      "password": "2345678",
+      "id": 24
+    }
+  ]
+}

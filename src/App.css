@@ -1,0 +1,80 @@
+/* .App {
+  text-align: center;
+} */
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.social-media{
+  color: white;
+}
+/* Navbar css start */
+.nav{
+  list-style: none;
+  display: flex;
+  background-color: black;
+  justify-content: center;
+}
+.nav li{
+  display: flex;
+}
+.nav li a{
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 25px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+
+}
+.nav li a:hover{
+  background-color: white;
+  color: black;
+}
+/* Navbar css end */
+
+/* slider css start */
+.slider{
+  width: 100%;
+  height: 659px; 
+   background-image:url(/public/image/siblings-817369_1920.jpg);
+   background-size: 100% 100%;
+   animation: slide 10s infinite linear;
+}
+@keyframes slide{
+  0%{
+    background-image:url(/public/image/siblings-817369_1920.jpg);
+  }
+  45%{
+    background-image:url(/public/image/1.jpg);
+  }
+  75%{
+    background-image:url(/public/image/child-817373_1920.jpg);
+  }
+  100%{
+    background-image:url(/public/image/dog-5357794_1920.jpg);
+  }
+}
+
+.social-media span{
+  padding-left: 10px;
+}
+.fa-sharp{
+  color: red;
+
+}
+.fa-shrp{
+  color: green ;
+
+}
+/* slider css end */
+
+/* Scroll table */
+.scroll{
+  max-height:700px;
+  width: 100%;
+  overflow: auto;
+}
+
